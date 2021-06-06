@@ -7,7 +7,7 @@ var result = document.getElementById('match-list');
 
 const searchState = async searchText => {
 
-    const res = await fetch('http://localhost:3000/getdata');
+    const res = await fetch('https://umeshwebserver.herokuapp.com/getdata');
     const states = await res.json();
 
     //get matches to current tet input
