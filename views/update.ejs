@@ -1,0 +1,124 @@
+<%- include('../views/partials/header.ejs'); %>
+    <%- include('../views/partials/navbar.ejs'); %>
+
+
+        <a href="/update/add"> <button type="button"> Add Data</button> </a>
+
+
+
+        <div class="row">
+            <div class="col-lg-7 mx-auto">
+                <div class="card border-0 shadow">
+                    <div class="card-body p-5">
+
+                        <!-- Responsive table -->
+                        <div class="table-responsive">
+                            <table class="table m-0">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">#</th>
+                                        <th scope="col">First</th>
+                                        <th scope="col">Last</th>
+                                        <th scope="col">Handle</th>
+                                        <th scope="col"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+
+
+
+
+
+
+                                    <%for(var i=0;i<20;i++){%>
+                                        <tr>
+                                            <th scope="row">
+                                                <%=mydata[i].id %>
+                                            </th>
+                                            <td>
+                                                <%=mydata[i].securityName %>
+                                            </td>
+                                            <td>
+                                                <%=mydata[i].symbol %>
+                                            </td>
+                                            <td>
+                                                <%=mydata[i].activeStatus %>
+                                            </td>
+                                            <td>
+                                                <!-- Call to action buttons -->
+                                                <ul class="list-inline m-0">
+
+
+                                                    <li class="list-inline-item">
+
+
+                                                        <button class="btn btn-primary btn-sm rounded-0" type="submit"
+                                                            data-toggle="tooltip" data-placement="top" title="Add"><i
+                                                                class="fa fa-table"></i></button> </a>
+
+
+
+                                                    </li>
+
+                                                    <form action="/update/addupdate" method="POST">
+
+
+                                                        <li class="list-inline-item">
+                                                            <input name="id" type="hidden" value="<%=mydata[i].id%>">
+
+                                                            <input name="securityName" type="hidden" value="<%=mydata[i].securityName%>">
+
+
+                                                            <button class="btn btn-success btn-sm rounded-0"
+                                                                type="submit" data-toggle="tooltip" data-placement="top"
+                                                                title="Edit"><i class="fa fa-edit"></i></button>
+                                                        </li>
+
+                                                    </form>
+
+
+
+
+
+
+                                                    <form action="/update" method="POST">
+                                                        <li class="list-inline-item">
+
+                                                            <input name="id" type="hidden" value="<%=mydata[i].id%>">
+                                                            <button class="btn btn-danger btn-sm rounded-0"
+                                                                type="submit" data-toggle="tooltip" data-placement="top"
+                                                                title="Delete"><i class="fa fa-trash"></i></button>
+                                                        </li>
+
+                                                    </form>
+
+                                                </ul>
+                                            </td>
+
+
+                                        </tr>
+
+                                        <%}%>
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <script>
+
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+            });
+
+
+
+        </script>
+
+        <%- include('../views/partials/footer.ejs'); %>

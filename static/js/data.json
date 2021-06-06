@@ -1,0 +1,7437 @@
+[{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93657e"
+	},
+	"id": "2790",
+	"symbol": "ACLBSL",
+	"securityName": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.275Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93657f"
+	},
+	"id": "2791",
+	"symbol": "ACLBSLP",
+	"securityName": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.343Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936580"
+	},
+	"id": "216",
+	"symbol": "ACEDBL",
+	"securityName": "Ace Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.347Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936581"
+	},
+	"id": "294",
+	"symbol": "ACEDPO",
+	"securityName": "ACE Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.350Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936582"
+	},
+	"id": "2845",
+	"symbol": "AKBSL",
+	"securityName": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.353Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936583"
+	},
+	"id": "2846",
+	"symbol": "AKBSLPO",
+	"securityName": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.358Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936584"
+	},
+	"id": "397",
+	"symbol": "ADBL",
+	"securityName": "Agriculture Development Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.362Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936585"
+	},
+	"id": "2886",
+	"symbol": "ADBLD83",
+	"securityName": "10.35% Agricultural Bank Debenture 2083",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.365Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936586"
+	},
+	"id": "2893",
+	"symbol": "AIL",
+	"securityName": "Ajod Insurance Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.368Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936587"
+	},
+	"id": "2894",
+	"symbol": "AILP",
+	"securityName": "Ajod Insurance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.371Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936588"
+	},
+	"id": "240",
+	"symbol": "AEFL",
+	"securityName": "Alpic Everest Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.373Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936589"
+	},
+	"id": "285",
+	"symbol": "AEFLPO",
+	"securityName": "Alpic Everest Finance Limited Promotor Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.376Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93658a"
+	},
+	"id": "406",
+	"symbol": "ALDBL",
+	"securityName": "Alpine Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.379Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93658b"
+	},
+	"id": "660",
+	"symbol": "ALDBLP",
+	"securityName": "Alpine Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.382Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93658c"
+	},
+	"id": "2788",
+	"symbol": "AKJCL",
+	"securityName": "Ankhu Khola Jalvidhyut Company Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.388Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93658d"
+	},
+	"id": "262",
+	"symbol": "APEX",
+	"securityName": "Apex Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.390Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93658e"
+	},
+	"id": "666",
+	"symbol": "APEXPO",
+	"securityName": "Apex Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.392Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93658f"
+	},
+	"id": "356",
+	"symbol": "AFL",
+	"securityName": "Api Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.395Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936590"
+	},
+	"id": "697",
+	"symbol": "API",
+	"securityName": "Api Power Company Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.397Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936591"
+	},
+	"id": "2777",
+	"symbol": "AMFI",
+	"securityName": "Arambha Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.400Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936592"
+	},
+	"id": "2778",
+	"symbol": "AMFIPO",
+	"securityName": "Arambha Microfinance Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.402Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936593"
+	},
+	"id": "622",
+	"symbol": "ARDBLP",
+	"securityName": "Araniko Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.404Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936594"
+	},
+	"id": "443",
+	"symbol": "ARDBL",
+	"securityName": "Araniko Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.410Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936595"
+	},
+	"id": "2757",
+	"symbol": "AKPL",
+	"securityName": "Arun Kabeli Power Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.412Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936596"
+	},
+	"id": "360",
+	"symbol": "AHPC",
+	"securityName": "Arun Valley Hydropower Development Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.421Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936597"
+	},
+	"id": "211",
+	"symbol": "AVU",
+	"securityName": "Arun Vanaspati Udhyog Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.425Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936598"
+	},
+	"id": "2807",
+	"symbol": "ALBSL",
+	"securityName": "Asha Laghubitta Bittiya Sanstha Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.427Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936599"
+	},
+	"id": "2808",
+	"symbol": "ALBSLP",
+	"securityName": "Asha Laghubitta Bittiya Sanstha Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.430Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93659a"
+	},
+	"id": "385",
+	"symbol": "ALICL",
+	"securityName": "Asian Life Insurance Co. Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.432Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93659b"
+	},
+	"id": "599",
+	"symbol": "ALICLP",
+	"securityName": "Asian Life Insurance Co. Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.434Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93659c"
+	},
+	"id": "344",
+	"symbol": "AXIS",
+	"securityName": "Axis Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.436Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93659d"
+	},
+	"id": "173",
+	"symbol": "BBBLN",
+	"securityName": "Bagheshwori Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.439Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93659e"
+	},
+	"id": "486",
+	"symbol": "BBBLNP",
+	"securityName": "Bagheshowari Development Bank  Ltd. Promoer Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.442Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93659f"
+	},
+	"id": "489",
+	"symbol": "BGDBL",
+	"securityName": "Bagmati Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.445Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a0"
+	},
+	"id": "681",
+	"symbol": "BGDBLP",
+	"securityName": "Bagmati Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.448Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a1"
+	},
+	"id": "349",
+	"symbol": "BOAN",
+	"securityName": "Bank of Asia Nepal Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.450Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a2"
+	},
+	"id": "2870",
+	"symbol": "BOKD2079",
+	"securityName": "8% BOK Debenture 2079",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.452Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a3"
+	},
+	"id": "138",
+	"symbol": "BOKL",
+	"securityName": "Bank of Kathmandu Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.454Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a4"
+	},
+	"id": "289",
+	"symbol": "BOKLPO",
+	"securityName": "Bank of Kathmandu Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.456Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a5"
+	},
+	"id": "686",
+	"symbol": "BARUN",
+	"securityName": "Barun Hydropower Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.458Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a6"
+	},
+	"id": "227",
+	"symbol": "BFC",
+	"securityName": "Best Finance Company Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.460Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a7"
+	},
+	"id": "339",
+	"symbol": "BFCPO",
+	"securityName": "Best Finance Co. Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.463Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a8"
+	},
+	"id": "265",
+	"symbol": "BFIL",
+	"securityName": "Bhajuratna Finance & Saving Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.465Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365a9"
+	},
+	"id": "728",
+	"symbol": "BFCLPO",
+	"securityName": "Bhaktapur Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.467Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365aa"
+	},
+	"id": "680",
+	"symbol": "BFCL",
+	"securityName": "Bhaktapur Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.469Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ab"
+	},
+	"id": "631",
+	"symbol": "BHBLPO",
+	"securityName": "Bhargav Bikash Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.471Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ac"
+	},
+	"id": "487",
+	"symbol": "BHBL",
+	"securityName": "Bhargav Bikash Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.473Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ad"
+	},
+	"id": "386",
+	"symbol": "BBBLPO",
+	"securityName": "Bhrikuti Bikash Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.475Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ae"
+	},
+	"id": "170",
+	"symbol": "BBBL",
+	"securityName": "Bhrikuti Vikash Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.484Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365af"
+	},
+	"id": "217",
+	"symbol": "BSL",
+	"securityName": "Birat Shoe Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.487Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b0"
+	},
+	"id": "279",
+	"symbol": "BLDBL",
+	"securityName": "Biratlaxmi Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.491Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b1"
+	},
+	"id": "477",
+	"symbol": "BLDBLP",
+	"securityName": "Biratlaxmi Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.493Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b2"
+	},
+	"id": "197",
+	"symbol": "BJM",
+	"securityName": "Biratnagar Jute Mills Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.495Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b3"
+	},
+	"id": "257",
+	"symbol": "BJFL",
+	"securityName": "Birgunj Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.497Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b4"
+	},
+	"id": "156",
+	"symbol": "BBC",
+	"securityName": "Bishal Bazar Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.499Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b5"
+	},
+	"id": "195",
+	"symbol": "BNL",
+	"securityName": "Bottlers Nepal (Balaju) Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.501Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b6"
+	},
+	"id": "213",
+	"symbol": "BNT",
+	"securityName": "Bottlers Nepal (Terai) Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.503Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b7"
+	},
+	"id": "535",
+	"symbol": "BRTBL",
+	"securityName": "Bright Development Bank Ltd",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.506Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b8"
+	},
+	"id": "168",
+	"symbol": "BUDBL",
+	"securityName": "Business Universal Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.508Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365b9"
+	},
+	"id": "646",
+	"symbol": "BUDBLP",
+	"securityName": "Business Universal Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.510Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ba"
+	},
+	"id": "153",
+	"symbol": "BPCL",
+	"securityName": "Butwal Power Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.512Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365bb"
+	},
+	"id": "205",
+	"symbol": "BSM",
+	"securityName": "Butwal Spinning Mills Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.514Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365bc"
+	},
+	"id": "288",
+	"symbol": "CMBFLP",
+	"securityName": "Capital Merchant Bank. & Fin. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.515Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365bd"
+	},
+	"id": "259",
+	"symbol": "CMB",
+	"securityName": "Capital Merchant Bank & Finance Co. Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.517Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365be"
+	},
+	"id": "2862",
+	"symbol": "CMF2",
+	"securityName": "CITIZENS MUTUAL FUND 2",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.519Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365bf"
+	},
+	"id": "245",
+	"symbol": "CFCL",
+	"securityName": "Central Finance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.521Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c0"
+	},
+	"id": "676",
+	"symbol": "CFCLPO",
+	"securityName": "Central Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.523Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c1"
+	},
+	"id": "656",
+	"symbol": "CCBLPO",
+	"securityName": "Century Commercial Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.526Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c2"
+	},
+	"id": "605",
+	"symbol": "CCBL",
+	"securityName": "Century Commercial Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.527Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c3"
+	},
+	"id": "2917",
+	"symbol": "CGH",
+	"securityName": "Chandragiri Hills Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.529Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c4"
+	},
+	"id": "2918",
+	"symbol": "CGHP",
+	"securityName": "Chandragiri Hills Limited Promoter",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.531Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c5"
+	},
+	"id": "698",
+	"symbol": "CBBLPO",
+	"securityName": "Chhimek Laghubitta Bikas Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.533Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c6"
+	},
+	"id": "164",
+	"symbol": "CBBL",
+	"securityName": "Chhimek Laghubitta Bikas Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.534Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c7"
+	},
+	"id": "2766",
+	"symbol": "CHL",
+	"securityName": "Chhyangdi Hydropower Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.536Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c8"
+	},
+	"id": "154",
+	"symbol": "CHCL",
+	"securityName": "Chilime Hydropower Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.539Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365c9"
+	},
+	"id": "348",
+	"symbol": "CZBIL",
+	"securityName": "Citizen Bank International Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.541Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ca"
+	},
+	"id": "493",
+	"symbol": "CZBILP",
+	"securityName": "Citizens Bank Internatioal Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.543Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365cb"
+	},
+	"id": "2780",
+	"symbol": "CMF1",
+	"securityName": "Citizens Mutual Fund -1",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.546Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365cc"
+	},
+	"id": "2889",
+	"symbol": "CIZBD86",
+	"securityName": "10.25% Citizens Bank Debenture 2086",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.548Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365cd"
+	},
+	"id": "210",
+	"symbol": "CIT",
+	"securityName": "Citizen Investment Trust",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.550Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ce"
+	},
+	"id": "296",
+	"symbol": "CEFL",
+	"securityName": "City Express Finance Co. Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.552Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365cf"
+	},
+	"id": "2756",
+	"symbol": "CEFLPO",
+	"securityName": "City Express Finance Co. Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.554Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d0"
+	},
+	"id": "533",
+	"symbol": "CIVIC",
+	"securityName": "Civic Development Bank Ltd",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.555Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d1"
+	},
+	"id": "532",
+	"symbol": "CBL",
+	"securityName": "Civil Bank Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.557Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d2"
+	},
+	"id": "653",
+	"symbol": "CBLPO",
+	"securityName": "Civil Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.559Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d3"
+	},
+	"id": "387",
+	"symbol": "PSDBLP",
+	"securityName": "Pashupati Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.560Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d4"
+	},
+	"id": "725",
+	"symbol": "CLBSLP",
+	"securityName": "Civil Laghubitta Bittiya Sanstha Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.563Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d5"
+	},
+	"id": "693",
+	"symbol": "CLBSL",
+	"securityName": "Civil Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.565Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d6"
+	},
+	"id": "430",
+	"symbol": "CMBSLp",
+	"securityName": "Civil Merchant  Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.567Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d7"
+	},
+	"id": "272",
+	"symbol": "CMBSL",
+	"securityName": "Civil Merchant Bittiya Santha Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.569Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d8"
+	},
+	"id": "336",
+	"symbol": "CEDBL",
+	"securityName": "Clean Energy Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.571Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365d9"
+	},
+	"id": "481",
+	"symbol": "CEDBLP",
+	"securityName": "Clean Energy Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.573Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365da"
+	},
+	"id": "253",
+	"symbol": "CMBF",
+	"securityName": "CMB Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.574Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365db"
+	},
+	"id": "303",
+	"symbol": "CMBFPO",
+	"securityName": "CMB Finance Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.576Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365dc"
+	},
+	"id": "539",
+	"symbol": "CTBNL",
+	"securityName": "Commerz and Trust Bank Nepal Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.578Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365dd"
+	},
+	"id": "450",
+	"symbol": "CORBL",
+	"securityName": "Corporate Development Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.580Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365de"
+	},
+	"id": "2763",
+	"symbol": "CORBLP",
+	"securityName": "Corporate Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.582Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365df"
+	},
+	"id": "600",
+	"symbol": "CSDBL",
+	"securityName": "Cosmos Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.583Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e0"
+	},
+	"id": "638",
+	"symbol": "CSDBLP",
+	"securityName": "Cosmos Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.589Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e1"
+	},
+	"id": "641",
+	"symbol": "CNDBLP",
+	"securityName": "Country Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.591Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e2"
+	},
+	"id": "448",
+	"symbol": "CNDBL",
+	"securityName": "Country Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.594Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e3"
+	},
+	"id": "361",
+	"symbol": "CFL",
+	"securityName": "Crystal Finance Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.599Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e4"
+	},
+	"id": "166",
+	"symbol": "DDBL",
+	"securityName": "Deprosc Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.601Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e5"
+	},
+	"id": "607",
+	"symbol": "DDBLPO",
+	"securityName": "Deprosc LaghuBitta Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.604Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e6"
+	},
+	"id": "311",
+	"symbol": "DBBL",
+	"securityName": "Deva Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.610Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e7"
+	},
+	"id": "573",
+	"symbol": "DBBLPO",
+	"securityName": "Dev BikasBank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.613Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e8"
+	},
+	"id": "2754",
+	"symbol": "DHPL",
+	"securityName": "Dibyashwori Hydropower Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.614Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365e9"
+	},
+	"id": "617",
+	"symbol": "EKBL",
+	"securityName": "Ekata Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.616Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ea"
+	},
+	"id": "642",
+	"symbol": "EKBLPO",
+	"securityName": "Ekata Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.618Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365eb"
+	},
+	"id": "594",
+	"symbol": "EBLPO",
+	"securityName": "Everest Bank Ltd.Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.620Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ec"
+	},
+	"id": "137",
+	"symbol": "EBL",
+	"securityName": "Everest Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.622Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ed"
+	},
+	"id": "277",
+	"symbol": "EBLCP",
+	"securityName": "Everest Bank Limited Con. Pref.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.624Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ee"
+	},
+	"id": "2871",
+	"symbol": "EBLD2078",
+	"securityName": "8% EBL Debenture 2078",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.627Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ef"
+	},
+	"id": "258",
+	"symbol": "EFL",
+	"securityName": "Everest Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.637Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f0"
+	},
+	"id": "335",
+	"symbol": "EFLPO",
+	"securityName": "Everest Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.643Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f1"
+	},
+	"id": "702",
+	"symbol": "EICPO",
+	"securityName": "Everest Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.646Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f2"
+	},
+	"id": "181",
+	"symbol": "EIC",
+	"securityName": "Everest Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.648Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f3"
+	},
+	"id": "274",
+	"symbol": "EDBL",
+	"securityName": "Excel Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.651Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f4"
+	},
+	"id": "612",
+	"symbol": "EDBLPO",
+	"securityName": "Excel Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.653Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f5"
+	},
+	"id": "254",
+	"symbol": "FFCL",
+	"securityName": "Fewa Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.654Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f6"
+	},
+	"id": "722",
+	"symbol": "FMDBLP",
+	"securityName": "First Micro Finance Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.656Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f7"
+	},
+	"id": "490",
+	"symbol": "FMDBL",
+	"securityName": "First Micro Finance Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.658Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f8"
+	},
+	"id": "228",
+	"symbol": "FHL",
+	"securityName": "Fleur Himalayan Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.660Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365f9"
+	},
+	"id": "2758",
+	"symbol": "FOWAD",
+	"securityName": "Forward Community Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.663Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365fa"
+	},
+	"id": "2921",
+	"symbol": "FOWADP",
+	"securityName": "Forward Community Microfinance Bittiya Sanstha Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.667Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365fb"
+	},
+	"id": "2815",
+	"symbol": "GMFBS",
+	"securityName": "Ganapati Microfinance Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.669Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365fc"
+	},
+	"id": "2818",
+	"symbol": "GMFBSP",
+	"securityName": "Ganapati Microfinance Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.671Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365fd"
+	},
+	"id": "420",
+	"symbol": "GDBL",
+	"securityName": "Gandaki Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.673Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365fe"
+	},
+	"id": "319",
+	"symbol": "FBBLPO",
+	"securityName": "Fewa Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.676Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c9365ff"
+	},
+	"id": "628",
+	"symbol": "BSBLPO",
+	"securityName": "Bishwa Bikas Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.678Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936600"
+	},
+	"id": "670",
+	"symbol": "GDBLPO",
+	"securityName": "Gandaki Bikas Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.684Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936601"
+	},
+	"id": "167",
+	"symbol": "GDBL1",
+	"securityName": "Gandaki Bikas BankLimited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.686Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936602"
+	},
+	"id": "623",
+	"symbol": "GBBLPO",
+	"securityName": "Garima Bikas Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.688Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936603"
+	},
+	"id": "417",
+	"symbol": "GBBL",
+	"securityName": "Garima Bikas Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.690Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936604"
+	},
+	"id": "664",
+	"symbol": "GABLPO",
+	"securityName": "Gaumukhee Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.692Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936605"
+	},
+	"id": "572",
+	"symbol": "GABL",
+	"securityName": "Gaumukhee Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.696Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936606"
+	},
+	"id": "412",
+	"symbol": "GSDBL",
+	"securityName": "Gaurishankar Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.698Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936607"
+	},
+	"id": "426",
+	"symbol": "GSDBLP",
+	"securityName": "Gaurishankar Development Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.699Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936608"
+	},
+	"id": "2905",
+	"symbol": "GIC",
+	"securityName": "General Insurance Company Nepal Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.701Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936609"
+	},
+	"id": "2906",
+	"symbol": "GICP",
+	"securityName": "General Insurance Company Nepal Ltd Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.703Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93660a"
+	},
+	"id": "2806",
+	"symbol": "GHL",
+	"securityName": "Ghalemdi Hydro Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.704Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93660b"
+	},
+	"id": "2852",
+	"symbol": "GGBSL",
+	"securityName": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.706Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93660c"
+	},
+	"id": "2853",
+	"symbol": "GGBSLP",
+	"securityName": "Ghodighoda Laghubitta Bittiya Sanstha Ltd Promoter share ",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.708Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93660d"
+	},
+	"id": "341",
+	"symbol": "GBIME",
+	"securityName": "Global IME Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.710Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93660e"
+	},
+	"id": "511",
+	"symbol": "GBIMEP",
+	"securityName": "Global IME Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.713Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93660f"
+	},
+	"id": "1740",
+	"symbol": "GIMES1",
+	"securityName": "Global IME Samunnat Scheme-1",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.715Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936610"
+	},
+	"id": "2840",
+	"symbol": "GBD80/81",
+	"securityName": "10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.716Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936611"
+	},
+	"id": "731",
+	"symbol": "GILBPO",
+	"securityName": "Global IME Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.718Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936612"
+	},
+	"id": "705",
+	"symbol": "GILB",
+	"securityName": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.719Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936613"
+	},
+	"id": "232",
+	"symbol": "GFCL",
+	"securityName": "Goodwill Finance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.721Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936614"
+	},
+	"id": "355",
+	"symbol": "GFCLPO",
+	"securityName": "Goodwill Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.723Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936615"
+	},
+	"id": "2883",
+	"symbol": "GWFD83",
+	"securityName": "12 % Goodwill Finance Limited Debenture 2083",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.724Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936616"
+	},
+	"id": "207",
+	"symbol": "GRU",
+	"securityName": "Gorakhkali Rubber Udhyog Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.726Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936617"
+	},
+	"id": "220",
+	"symbol": "GFLK",
+	"securityName": "Gorkha Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.727Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936618"
+	},
+	"id": "351",
+	"symbol": "GFLKPO",
+	"securityName": "Gorkha Finance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.730Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936619"
+	},
+	"id": "583",
+	"symbol": "GBLBS",
+	"securityName": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.731Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93661a"
+	},
+	"id": "712",
+	"symbol": "GBLBSP",
+	"securityName": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.735Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93661b"
+	},
+	"id": "346",
+	"symbol": "PDBLPO",
+	"securityName": "Paschimanchal Bikash Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.736Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93661c"
+	},
+	"id": "310",
+	"symbol": "GRANDP",
+	"securityName": "Grand Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.738Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93661d"
+	},
+	"id": "162",
+	"symbol": "GRAND",
+	"securityName": "Grand Bank Nepal Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.739Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93661e"
+	},
+	"id": "2744",
+	"symbol": "GRDBL",
+	"securityName": "Green Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.741Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93661f"
+	},
+	"id": "2745",
+	"symbol": "GRDBLP",
+	"securityName": "Green Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.742Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936620"
+	},
+	"id": "2924",
+	"symbol": "GLH",
+	"securityName": "GreenLife Hydropower Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.744Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936621"
+	},
+	"id": "613",
+	"symbol": "GMFILP",
+	"securityName": "Guheyshwori Merchant & Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.746Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936622"
+	},
+	"id": "263",
+	"symbol": "GMFIL",
+	"securityName": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.748Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936623"
+	},
+	"id": "504",
+	"symbol": "GULMI",
+	"securityName": "Gulmi Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.749Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936624"
+	},
+	"id": "2826",
+	"symbol": "GLBSL",
+	"securityName": "Gurans Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.756Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936625"
+	},
+	"id": "2827",
+	"symbol": "GLBSLP",
+	"securityName": "Gurans Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.758Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936626"
+	},
+	"id": "447",
+	"symbol": "GLICL",
+	"securityName": "Gurans Life Insurance Company Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.760Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936627"
+	},
+	"id": "621",
+	"symbol": "GLICLP",
+	"securityName": "Guras Life Insurance Company Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.765Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936628"
+	},
+	"id": "175",
+	"symbol": "GDBNL",
+	"securityName": "Gurkha Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.766Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936629"
+	},
+	"id": "204",
+	"symbol": "GUFL",
+	"securityName": "Gurkhas Finance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.768Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93662a"
+	},
+	"id": "315",
+	"symbol": "GUFLPO",
+	"securityName": "Gurkhas Finance  Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.770Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93662b"
+	},
+	"id": "470",
+	"symbol": "HAMA",
+	"securityName": "Hama Merchant & Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.772Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93662c"
+	},
+	"id": "611",
+	"symbol": "HAMAPO",
+	"securityName": "Hama Merchant & Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.775Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93662d"
+	},
+	"id": "576",
+	"symbol": "HAMRO",
+	"securityName": "Hamro Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.777Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93662e"
+	},
+	"id": "639",
+	"symbol": "HAMROP",
+	"securityName": "Hamro Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.779Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93662f"
+	},
+	"id": "215",
+	"symbol": "HBT",
+	"securityName": "Harisiddhi Brick And Tiles Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.781Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936630"
+	},
+	"id": "685",
+	"symbol": "HATHPO",
+	"securityName": "Hathway Finance Company Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.782Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936631"
+	},
+	"id": "421",
+	"symbol": "HATH",
+	"securityName": "Hathway Finance Company Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.784Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936632"
+	},
+	"id": "2880",
+	"symbol": "HDHPC",
+	"securityName": "Himal Dolakha Hydropower Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.787Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936633"
+	},
+	"id": "2824",
+	"symbol": "HURJA",
+	"securityName": "Himalaya Urja Bikas Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.789Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936634"
+	},
+	"id": "564",
+	"symbol": "HBLPO",
+	"securityName": "Himalayan Bank Ltd. Promoter",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.792Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936635"
+	},
+	"id": "134",
+	"symbol": "HBL",
+	"securityName": "Himalayan Bank Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.793Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936636"
+	},
+	"id": "2873",
+	"symbol": "HBLD83",
+	"securityName": "10% Himalayan Bank Debenture 2083",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.796Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936637"
+	},
+	"id": "235",
+	"symbol": "HDL",
+	"securityName": "Himalayan Distillery Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.797Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936638"
+	},
+	"id": "441",
+	"symbol": "HFL",
+	"securityName": "Himalayan Finance Limited (Bittiya Sanstha)",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.800Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936639"
+	},
+	"id": "700",
+	"symbol": "HGIPO",
+	"securityName": "Himalayan General Insurance Co. Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.805Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93663a"
+	},
+	"id": "179",
+	"symbol": "HGI",
+	"securityName": "Himalayan General Insurance Co. Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.809Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93663b"
+	},
+	"id": "2767",
+	"symbol": "HPPL",
+	"securityName": "Himalayan Power Partner Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.811Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93663c"
+	},
+	"id": "224",
+	"symbol": "HTL",
+	"securityName": "Himgiri Textile Industries Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.813Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93663d"
+	},
+	"id": "2742",
+	"symbol": "HIDCL",
+	"securityName": "Hydorelectricity Investment and Development Company Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.815Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93663e"
+	},
+	"id": "273",
+	"symbol": "ICFC",
+	"securityName": "ICFC Finance Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.817Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93663f"
+	},
+	"id": "400",
+	"symbol": "ICFCPO",
+	"securityName": "ICFC Finance Limited Promotor Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.819Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936640"
+	},
+	"id": "2882",
+	"symbol": "ICFCD83",
+	"securityName": "12% ICFC Finance Limited Debenture 2083",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.821Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936641"
+	},
+	"id": "264",
+	"symbol": "IMEFI",
+	"securityName": "IME Financial Institution",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.822Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936642"
+	},
+	"id": "415",
+	"symbol": "IMEFIP",
+	"securityName": "IME Financial Institution Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.824Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936643"
+	},
+	"id": "186",
+	"symbol": "IGI",
+	"securityName": "IME General Insurance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.825Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936644"
+	},
+	"id": "635",
+	"symbol": "IGIPO",
+	"securityName": "IME General Insurance  Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.827Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936645"
+	},
+	"id": "484",
+	"symbol": "IFILPO",
+	"securityName": "Imperial Finance Ltd Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.829Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936646"
+	},
+	"id": "270",
+	"symbol": "IFIL",
+	"securityName": "Imperial Financial Inst. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.831Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936647"
+	},
+	"id": "2832",
+	"symbol": "ILBS",
+	"securityName": "Infinity Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.832Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936648"
+	},
+	"id": "2833",
+	"symbol": "ILBSP",
+	"securityName": "Infinity Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.834Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936649"
+	},
+	"id": "392",
+	"symbol": "IDBLPO",
+	"securityName": "Infrastructure Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.835Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93664a"
+	},
+	"id": "290",
+	"symbol": "IDBL",
+	"securityName": "Infrastructure Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.838Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93664b"
+	},
+	"id": "683",
+	"symbol": "INDBPO",
+	"securityName": "Innovative Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.840Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93664c"
+	},
+	"id": "529",
+	"symbol": "INDB",
+	"securityName": "Innovative Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.841Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93664d"
+	},
+	"id": "536",
+	"symbol": "INDBL",
+	"securityName": "International Development Bank Ltd",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.843Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93664e"
+	},
+	"id": "709",
+	"symbol": "INDBLP",
+	"securityName": "International Development Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.844Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93664f"
+	},
+	"id": "243",
+	"symbol": "ILFC",
+	"securityName": "International Leasing & Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.846Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936650"
+	},
+	"id": "690",
+	"symbol": "ILFCPO",
+	"securityName": "International Leasing & Finance Co. Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.848Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936651"
+	},
+	"id": "292",
+	"symbol": "JFLPO",
+	"securityName": "Janaki Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.850Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936652"
+	},
+	"id": "250",
+	"symbol": "JFL",
+	"securityName": "Janaki Finance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.851Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936653"
+	},
+	"id": "654",
+	"symbol": "JBNLPO",
+	"securityName": "Janata Bank Nepal Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.853Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936654"
+	},
+	"id": "496",
+	"symbol": "JBNL",
+	"securityName": "Janata Bank Nepal Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.855Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936655"
+	},
+	"id": "719",
+	"symbol": "JSLBBP",
+	"securityName": "Janautthan Samudayic Laghubitta Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.858Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936656"
+	},
+	"id": "695",
+	"symbol": "JSLBB",
+	"securityName": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.860Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936657"
+	},
+	"id": "673",
+	"symbol": "JEFLPO",
+	"securityName": "Jebils Finance Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.862Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936658"
+	},
+	"id": "577",
+	"symbol": "JEFL",
+	"securityName": "Jebils Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.864Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936659"
+	},
+	"id": "563",
+	"symbol": "JHBL",
+	"securityName": "Jhimruk Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.865Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93665a"
+	},
+	"id": "647",
+	"symbol": "JHBLPO",
+	"securityName": "Jhimruk Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.867Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93665b"
+	},
+	"id": "2789",
+	"symbol": "JOSHI",
+	"securityName": "Joshi Hydropower Development Company Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.868Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93665c"
+	},
+	"id": "418",
+	"symbol": "JBBL",
+	"securityName": "Jyoti Bikas Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.870Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93665d"
+	},
+	"id": "579",
+	"symbol": "JBBLPO",
+	"securityName": "Jyoti Bikash  Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.872Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93665e"
+	},
+	"id": "2929",
+	"symbol": "JLI",
+	"securityName": "Jyoti Life Insurance Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.876Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93665f"
+	},
+	"id": "2930",
+	"symbol": "JLIP",
+	"securityName": "Jyoti Life Insurance Ltd Promoter",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.880Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936660"
+	},
+	"id": "209",
+	"symbol": "JSM",
+	"securityName": "Jyoti Sinning Mills Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.885Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936661"
+	},
+	"id": "427",
+	"symbol": "KEBL",
+	"securityName": "Kabeli Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.887Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936662"
+	},
+	"id": "729",
+	"symbol": "KEBLPO",
+	"securityName": "Kabeli BIkas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.889Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936663"
+	},
+	"id": "202",
+	"symbol": "KBBL",
+	"securityName": "Kailash Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.891Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936664"
+	},
+	"id": "305",
+	"symbol": "KBBLPO",
+	"securityName": "Kailash Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.892Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936665"
+	},
+	"id": "531",
+	"symbol": "KKBL",
+	"securityName": "Kakre Bihar Bikash Bank Ltd",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.894Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936666"
+	},
+	"id": "727",
+	"symbol": "KKBLPO",
+	"securityName": "Kakre Bihar Bikash Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.896Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936667"
+	},
+	"id": "678",
+	"symbol": "KMCDBP",
+	"securityName": "Kalika Microcredit Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.897Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936668"
+	},
+	"id": "593",
+	"symbol": "KMCDB",
+	"securityName": "Kalika Microcredit Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.900Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936669"
+	},
+	"id": "2787",
+	"symbol": "KPCL",
+	"securityName": "Kalika power Company Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.902Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93666a"
+	},
+	"id": "718",
+	"symbol": "KCDBLP",
+	"securityName": "Kalinchowk Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.905Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93666b"
+	},
+	"id": "627",
+	"symbol": "KCDBL",
+	"securityName": "Kalinchowk Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.907Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93666c"
+	},
+	"id": "459",
+	"symbol": "KSBBL",
+	"securityName": "Kamana Sewa Bikas Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.908Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93666d"
+	},
+	"id": "677",
+	"symbol": "KSBBLP",
+	"securityName": "Kamana Sewa Bikas Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.910Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93666e"
+	},
+	"id": "505",
+	"symbol": "KADBL",
+	"securityName": "Kanchan Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.912Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93666f"
+	},
+	"id": "710",
+	"symbol": "KADBLP",
+	"securityName": "Kanchan Development Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.914Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936670"
+	},
+	"id": "637",
+	"symbol": "KNBLPO",
+	"securityName": "Kankai Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.915Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936671"
+	},
+	"id": "419",
+	"symbol": "KNBL",
+	"securityName": "Kankai Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.917Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936672"
+	},
+	"id": "1739",
+	"symbol": "KRBLPO",
+	"securityName": "Karnali Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.918Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936673"
+	},
+	"id": "428",
+	"symbol": "KRBL",
+	"securityName": "Karnali Development Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.921Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936674"
+	},
+	"id": "332",
+	"symbol": "KAFIL",
+	"securityName": "Kaski Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.924Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936675"
+	},
+	"id": "558",
+	"symbol": "KAFILP",
+	"securityName": "Kaski Finanace Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.929Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936676"
+	},
+	"id": "550",
+	"symbol": "KDBLPO",
+	"securityName": "Kasthamandap Dev. Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.931Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936677"
+	},
+	"id": "388",
+	"symbol": "KDBL",
+	"securityName": "Kasthamandap Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.934Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936678"
+	},
+	"id": "537",
+	"symbol": "KHDBL",
+	"securityName": "Khandbari Development Bank Ltd",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.936Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936679"
+	},
+	"id": "2751",
+	"symbol": "KKHC",
+	"securityName": "Khanikhola Hydropower Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.939Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93667a"
+	},
+	"id": "694",
+	"symbol": "KLBSL",
+	"securityName": "Kisan Lagubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.947Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93667b"
+	},
+	"id": "733",
+	"symbol": "KLBSLP",
+	"securityName": "Kisan Lagubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.950Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93667c"
+	},
+	"id": "2885",
+	"symbol": "KBLD86",
+	"securityName": "10.25% KBL Debenture 2086",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.951Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93667d"
+	},
+	"id": "2933",
+	"symbol": "KEF",
+	"securityName": "Kumari Equity Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.953Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93667e"
+	},
+	"id": "142",
+	"symbol": "KBL",
+	"securityName": "Kumari Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.955Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c93667f"
+	},
+	"id": "283",
+	"symbol": "KBLPO",
+	"securityName": "Kumari Bank Limited Promotor Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.957Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936680"
+	},
+	"id": "231",
+	"symbol": "LFC",
+	"securityName": "Lalitpur Finance Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.958Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936681"
+	},
+	"id": "330",
+	"symbol": "LFCPO",
+	"securityName": "Lalitpur Finance Co. Ltd. Promoter Share",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.960Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936682"
+	},
+	"id": "286",
+	"symbol": "LBLPO",
+	"securityName": "Laxmi Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.972Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936683"
+	},
+	"id": "141",
+	"symbol": "LBL",
+	"securityName": "Laxmi Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.975Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936684"
+	},
+	"id": "2765",
+	"symbol": "LEMF",
+	"securityName": "Laxmi Equity Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.993Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1359f50ec210c936685"
+	},
+	"id": "674",
+	"symbol": "LVF1",
+	"securityName": "Laxmi Value Fund-1",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:13.999Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936686"
+	},
+	"id": "2879",
+	"symbol": "LBLD86",
+	"securityName": "10% Laxmi Bank Debenture 2086",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.007Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936687"
+	},
+	"id": "2902",
+	"symbol": "LUK",
+	"securityName": "Laxmi Unnati Kosh",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.010Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936688"
+	},
+	"id": "644",
+	"symbol": "LLBSPO",
+	"securityName": "Laxmi Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.014Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936689"
+	},
+	"id": "618",
+	"symbol": "LLBS",
+	"securityName": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.021Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93668a"
+	},
+	"id": "2903",
+	"symbol": "LEC",
+	"securityName": "Liberty Energy Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.031Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93668b"
+	},
+	"id": "188",
+	"symbol": "LICN",
+	"securityName": "Life Insurance Co. Nepal",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.084Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93668c"
+	},
+	"id": "696",
+	"symbol": "LICNPO",
+	"securityName": "Life Insurance Co. Nepal Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.117Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93668d"
+	},
+	"id": "320",
+	"symbol": "LBFIL",
+	"securityName": "Lord Buddha Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.121Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93668e"
+	},
+	"id": "284",
+	"symbol": "LUBLPO",
+	"securityName": "Lumbini Bank Limited Promotor Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.123Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93668f"
+	},
+	"id": "143",
+	"symbol": "LUBL",
+	"securityName": "Lumbini Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.176Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936690"
+	},
+	"id": "626",
+	"symbol": "LBBLPO",
+	"securityName": "Lumbini Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.181Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936691"
+	},
+	"id": "358",
+	"symbol": "LBBL",
+	"securityName": "Lumbini Bikas Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.183Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936692"
+	},
+	"id": "237",
+	"symbol": "LFLC",
+	"securityName": "Lumbini Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.185Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936693"
+	},
+	"id": "523",
+	"symbol": "LFLCPO",
+	"securityName": "Lumbini Finance Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.187Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936694"
+	},
+	"id": "190",
+	"symbol": "LGIL",
+	"securityName": "Lumbini General Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.188Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936695"
+	},
+	"id": "703",
+	"symbol": "LGILPO",
+	"securityName": "Lumbini General Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.192Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936696"
+	},
+	"id": "2866",
+	"symbol": "MBLD2085",
+	"securityName": "10.25% Machhapuchhre Bank Debenture 2085",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.195Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936697"
+	},
+	"id": "140",
+	"symbol": "MBL",
+	"securityName": "Machhapuchhre Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.197Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936698"
+	},
+	"id": "281",
+	"symbol": "MBLPO",
+	"securityName": "MachhaPuchhre  Bank Limited Promotor Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.203Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936699"
+	},
+	"id": "364",
+	"symbol": "MGBL",
+	"securityName": "Madhyamanchal Gramin Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.230Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93669a"
+	},
+	"id": "229",
+	"symbol": "MFL",
+	"securityName": "Maha Laxmi Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.237Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93669b"
+	},
+	"id": "495",
+	"symbol": "MFLPO",
+	"securityName": "Maha Laxmi Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.239Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93669c"
+	},
+	"id": "370",
+	"symbol": "MBBL",
+	"securityName": "Mahakali Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.241Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93669d"
+	},
+	"id": "569",
+	"symbol": "MBBLPO",
+	"securityName": "Mahakali Bikas Bank Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.242Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93669e"
+	},
+	"id": "620",
+	"symbol": "MLBLPO",
+	"securityName": "Mahalxmi Bikas Bank Ltd. Promotor Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.245Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93669f"
+	},
+	"id": "401",
+	"symbol": "MLBL",
+	"securityName": "Mahalaxmi Bikas Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.248Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a0"
+	},
+	"id": "291",
+	"symbol": "MDBLPO",
+	"securityName": "Malika Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.249Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a1"
+	},
+	"id": "275",
+	"symbol": "MLBL1",
+	"securityName": "Mahalaxmi BikasBank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.251Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a2"
+	},
+	"id": "2925",
+	"symbol": "MLBSL",
+	"securityName": "Mahila Lagubitta Bittiya Sanstha Limited ",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.254Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a3"
+	},
+	"id": "2926",
+	"symbol": "MLBSLP",
+	"securityName": "Mahila Lagubitta Bittiya Sanstha Limited Promoter",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.256Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a4"
+	},
+	"id": "691",
+	"symbol": "MSMBS",
+	"securityName": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.259Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a5"
+	},
+	"id": "1736",
+	"symbol": "MSMBSP",
+	"securityName": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.261Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a6"
+	},
+	"id": "2768",
+	"symbol": "MSLB",
+	"securityName": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.263Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a7"
+	},
+	"id": "2928",
+	"symbol": "MSLBP",
+	"securityName": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.264Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a8"
+	},
+	"id": "588",
+	"symbol": "MSBBL",
+	"securityName": "Manaslu Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.266Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366a9"
+	},
+	"id": "662",
+	"symbol": "MSBBLP",
+	"securityName": "Manaslu Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.268Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366aa"
+	},
+	"id": "516",
+	"symbol": "MFIL",
+	"securityName": "Manjushree Finance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.269Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ab"
+	},
+	"id": "730",
+	"symbol": "MFILPO",
+	"securityName": "Manjushree Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.271Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ac"
+	},
+	"id": "2932",
+	"symbol": "MFLD85",
+	"securityName": "9.5% Manjushree Finance Limited Debenture 2085",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.273Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ad"
+	},
+	"id": "595",
+	"symbol": "MTBL",
+	"securityName": "Matribhumi Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.275Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ae"
+	},
+	"id": "657",
+	"symbol": "MEGAPO",
+	"securityName": "Mega  Bank Nepal Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.277Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366af"
+	},
+	"id": "562",
+	"symbol": "MEGA",
+	"securityName": "Mega  Bank Nepal Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.279Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b0"
+	},
+	"id": "1741",
+	"symbol": "MERO",
+	"securityName": "Mero Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.281Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b1"
+	},
+	"id": "1742",
+	"symbol": "MEROPO",
+	"securityName": "Mero Microfinance Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.285Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b2"
+	},
+	"id": "513",
+	"symbol": "METRO",
+	"securityName": "Metro Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.287Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b3"
+	},
+	"id": "682",
+	"symbol": "MMFDB",
+	"securityName": "Mirmire Microfinance Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.289Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b4"
+	},
+	"id": "711",
+	"symbol": "MMFDBP",
+	"securityName": "Mirmire Microfinance Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.292Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b5"
+	},
+	"id": "665",
+	"symbol": "MIDBLP",
+	"securityName": "Mission Development Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.296Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b6"
+	},
+	"id": "570",
+	"symbol": "MIDBL",
+	"securityName": "Mission Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.307Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b7"
+	},
+	"id": "609",
+	"symbol": "MDBPO",
+	"securityName": "Miteri Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.309Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b8"
+	},
+	"id": "371",
+	"symbol": "MDB",
+	"securityName": "Miteri Development Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.312Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366b9"
+	},
+	"id": "601",
+	"symbol": "MLBBL",
+	"securityName": "Mithila LaghuBitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.313Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ba"
+	},
+	"id": "707",
+	"symbol": "MLBBLP",
+	"securityName": "Mithila LaghuBitta Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.317Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366bb"
+	},
+	"id": "193",
+	"symbol": "MSM",
+	"securityName": "Morang Sugar Mills Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.320Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366bc"
+	},
+	"id": "614",
+	"symbol": "MMDBL",
+	"securityName": "Mount Makalu Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.323Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366bd"
+	},
+	"id": "724",
+	"symbol": "MMDBLP",
+	"securityName": "Mount Makalu Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.326Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366be"
+	},
+	"id": "2913",
+	"symbol": "MEN",
+	"securityName": "Mountain Energy Nepal Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.327Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366bf"
+	},
+	"id": "2811",
+	"symbol": "MHNL",
+	"securityName": "Mountain Hydro Nepal Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.330Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c0"
+	},
+	"id": "474",
+	"symbol": "MNBBL",
+	"securityName": "Muktinath Bikas Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.332Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c1"
+	},
+	"id": "640",
+	"symbol": "MNBBLP",
+	"securityName": "Muktinath Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.334Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c2"
+	},
+	"id": "1737",
+	"symbol": "MPFLPO",
+	"securityName": "Multipurpose Finance Company  Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.337Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c3"
+	},
+	"id": "471",
+	"symbol": "MPFL",
+	"securityName": "Multipurpose Finance Company  Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.340Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c4"
+	},
+	"id": "131",
+	"symbol": "NABIL",
+	"securityName": "Nabil Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.343Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c5"
+	},
+	"id": "282",
+	"symbol": "NABILP",
+	"securityName": "NABIL Bank Limited Promotor Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.346Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c6"
+	},
+	"id": "538",
+	"symbol": "NBF1",
+	"securityName": "Nabil Balance Fund 1",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.349Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c7"
+	},
+	"id": "2753",
+	"symbol": "NEF",
+	"securityName": "Nabil Equity Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.350Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c8"
+	},
+	"id": "2835",
+	"symbol": "NBF2",
+	"securityName": "NABIL BALANCED FUND-2",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.352Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366c9"
+	},
+	"id": "2892",
+	"symbol": "NBLD82",
+	"securityName": "10% Nabil Debenture 2082",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.353Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ca"
+	},
+	"id": "2784",
+	"symbol": "NADEP",
+	"securityName": "Nadep Laghubittiya bittya Sanstha Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.355Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366cb"
+	},
+	"id": "2785",
+	"symbol": "NADEPP",
+	"securityName": "Nadep Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.364Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366cc"
+	},
+	"id": "602",
+	"symbol": "NBBL",
+	"securityName": "NagBeli LaghuBitta Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.367Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366cd"
+	},
+	"id": "649",
+	"symbol": "NBBLPO",
+	"securityName": "NagBeli LaghuBitta Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.369Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ce"
+	},
+	"id": "571",
+	"symbol": "NBSL",
+	"securityName": "Namaste Bittiya Sanstha Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.371Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366cf"
+	},
+	"id": "667",
+	"symbol": "NBSLPO",
+	"securityName": "Namaste Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.373Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d0"
+	},
+	"id": "172",
+	"symbol": "NABBC",
+	"securityName": "Narayani Development Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.375Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d1"
+	},
+	"id": "214",
+	"symbol": "NFL",
+	"securityName": "Narayani Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.376Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d2"
+	},
+	"id": "199",
+	"symbol": "NNFC",
+	"securityName": "Narayani National Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.381Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d3"
+	},
+	"id": "395",
+	"symbol": "NNFCPO",
+	"securityName": "Narayani National Finance Company Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.390Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d4"
+	},
+	"id": "152",
+	"symbol": "NHPC",
+	"securityName": "National Hydro Power Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.393Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d5"
+	},
+	"id": "178",
+	"symbol": "NLICL",
+	"securityName": "National Life Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.397Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d6"
+	},
+	"id": "582",
+	"symbol": "NLICLP",
+	"securityName": "National Life Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.406Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d7"
+	},
+	"id": "534",
+	"symbol": "00002",
+	"securityName": "National Life Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "I",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.409Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d8"
+	},
+	"id": "2746",
+	"symbol": "NMFBS",
+	"securityName": "National Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.411Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366d9"
+	},
+	"id": "2747",
+	"symbol": "NMFBSP",
+	"securityName": "National Microfinance Bittiya Sanstha Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.412Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366da"
+	},
+	"id": "150",
+	"symbol": "ESC",
+	"securityName": "National Pro. And Eco. Dev. Centre",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.414Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366db"
+	},
+	"id": "248",
+	"symbol": "NDFL",
+	"securityName": "Nava Durga Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.416Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366dc"
+	},
+	"id": "615",
+	"symbol": "NILPO",
+	"securityName": "Neco Insurace Co. Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.417Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366dd"
+	},
+	"id": "183",
+	"symbol": "NIL",
+	"securityName": "Neco Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.422Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366de"
+	},
+	"id": "212",
+	"symbol": "NABB",
+	"securityName": "Nepal Aawas Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.427Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366df"
+	},
+	"id": "363",
+	"symbol": "NABBPO",
+	"securityName": "Nepal Aawas Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.430Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e0"
+	},
+	"id": "2816",
+	"symbol": "NAGRO",
+	"securityName": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.434Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e1"
+	},
+	"id": "2817",
+	"symbol": "NAGROP",
+	"securityName": "Nepal Agro Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.436Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e2"
+	},
+	"id": "380",
+	"symbol": "NBBPO",
+	"securityName": "Nepal Bangladesh Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.437Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e3"
+	},
+	"id": "136",
+	"symbol": "NBB",
+	"securityName": "Nepal Bangladesh Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.439Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e4"
+	},
+	"id": "2854",
+	"symbol": "NBBD2085",
+	"securityName": "10.25% NBBL Debenture 2085",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.443Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e5"
+	},
+	"id": "241",
+	"symbol": "NBFL",
+	"securityName": "Nepal Bangladesh Finance & Leasing Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.447Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e6"
+	},
+	"id": "517",
+	"symbol": "NBL",
+	"securityName": "Nepal Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.450Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e7"
+	},
+	"id": "233",
+	"symbol": "NBBU",
+	"securityName": "Nepal Bitumin And Barrel Udhyog Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.453Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e8"
+	},
+	"id": "157",
+	"symbol": "NBCK",
+	"securityName": "Nepal Byapar Bikash Company(Koshi) Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.454Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366e9"
+	},
+	"id": "598",
+	"symbol": "NCDB",
+	"securityName": "Nepal Community Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.456Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ea"
+	},
+	"id": "699",
+	"symbol": "NCDBPO",
+	"securityName": "Nepal Community Development Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.457Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366eb"
+	},
+	"id": "506",
+	"symbol": "NCDBL",
+	"securityName": "Nepal Consumer Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.459Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ec"
+	},
+	"id": "144",
+	"symbol": "NCCB",
+	"securityName": "Nepal Credit And Commercial Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.460Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ed"
+	},
+	"id": "312",
+	"symbol": "RMBFPO",
+	"securityName": "Royal Merchant Bank & Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.465Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ee"
+	},
+	"id": "327",
+	"symbol": "NCCBPO",
+	"securityName": "Nepal Credit & Commercial Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.467Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ef"
+	},
+	"id": "2936",
+	"symbol": "NCCD86",
+	"securityName": "9.5% NCC Debenture 2086",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.470Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f0"
+	},
+	"id": "161",
+	"symbol": "NDB",
+	"securityName": "Nepal Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.474Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f1"
+	},
+	"id": "295",
+	"symbol": "NDBPO",
+	"securityName": "Nepal Development Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.475Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f2"
+	},
+	"id": "307",
+	"symbol": "NTC",
+	"securityName": "Nepal Doorsanchar Comapany Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.477Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f3"
+	},
+	"id": "458",
+	"symbol": "NEFLPO",
+	"securityName": "Nepal Express Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.478Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f4"
+	},
+	"id": "278",
+	"symbol": "NEFL",
+	"securityName": "Nepal Express Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.480Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f5"
+	},
+	"id": "151",
+	"symbol": "NFD",
+	"securityName": "Nepal Film Development Company Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.482Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f6"
+	},
+	"id": "194",
+	"symbol": "NFS",
+	"securityName": "Nepal Finance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.485Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f7"
+	},
+	"id": "651",
+	"symbol": "NFSPO",
+	"securityName": "Nepal Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.488Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f8"
+	},
+	"id": "225",
+	"symbol": "NHMF",
+	"securityName": "Nepal Housing & Merchant Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.491Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366f9"
+	},
+	"id": "318",
+	"symbol": "NHMFPO",
+	"securityName": "Nepal Housing & Merchant Co. Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.493Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366fa"
+	},
+	"id": "2769",
+	"symbol": "NHDL",
+	"securityName": "Nepal Hydro Developers Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.496Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366fb"
+	},
+	"id": "2919",
+	"symbol": "NIFRA",
+	"securityName": "Nepal Infrastructure Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.497Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366fc"
+	},
+	"id": "2920",
+	"symbol": "NIFRAP",
+	"securityName": "Nepal Infrastructure Bank Limited Promoter",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.499Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366fd"
+	},
+	"id": "176",
+	"symbol": "NICL",
+	"securityName": "Nepal Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.500Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366fe"
+	},
+	"id": "689",
+	"symbol": "NICLPO",
+	"securityName": "Nepal Insurance Co. Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.502Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9366ff"
+	},
+	"id": "2931",
+	"symbol": "NIBD84",
+	"securityName": "8.5% Nepal Investment Bank Debenture 2084",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.506Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936700"
+	},
+	"id": "2851",
+	"symbol": "NIBD2082",
+	"securityName": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.509Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936701"
+	},
+	"id": "2755",
+	"symbol": "NIBLPF",
+	"securityName": "NIBL Pragati Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.510Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936702"
+	},
+	"id": "636",
+	"symbol": "NIBSF1",
+	"securityName": "NIBL Samriddhi Fund 1",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.512Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936703"
+	},
+	"id": "469",
+	"symbol": "NIBPO",
+	"securityName": "Nepal Investment Bank Ltd. Promoter Share",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.514Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936704"
+	},
+	"id": "132",
+	"symbol": "NIB",
+	"securityName": "Nepal Investment Bank Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.515Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936705"
+	},
+	"id": "222",
+	"symbol": "NKU",
+	"securityName": "Nepal Khadya Udhyog Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.517Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936706"
+	},
+	"id": "589",
+	"symbol": "NLICP",
+	"securityName": "Nepal Life Insurance Co. Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.521Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936707"
+	},
+	"id": "187",
+	"symbol": "NLIC",
+	"securityName": "Nepal Life Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.523Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936708"
+	},
+	"id": "198",
+	"symbol": "NLO",
+	"securityName": "Nepal Lube Oil Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.528Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936709"
+	},
+	"id": "2881",
+	"symbol": "NRIC",
+	"securityName": "Nepal Reinsurance Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.531Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93670a"
+	},
+	"id": "2884",
+	"symbol": "NRICP",
+	"securityName": "Nepal Reinsurance Company Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.537Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93670b"
+	},
+	"id": "2890",
+	"symbol": "SBIBD86",
+	"securityName": "10% Nepal SBI Bank Debenture 2086",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.538Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93670c"
+	},
+	"id": "135",
+	"symbol": "SBI",
+	"securityName": "Nepal SBI Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.540Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93670d"
+	},
+	"id": "347",
+	"symbol": "SBIPO",
+	"securityName": "Nepal SBI Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.542Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93670e"
+	},
+	"id": "2781",
+	"symbol": "NSEWA",
+	"securityName": "Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.543Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93670f"
+	},
+	"id": "2782",
+	"symbol": "NSEWAP",
+	"securityName": "Nepal Seva Laghubitta Bittiya Sanstha Ltd. promoter share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.547Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936710"
+	},
+	"id": "200",
+	"symbol": "NSM",
+	"securityName": "Nepal Share Markets Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.551Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936711"
+	},
+	"id": "313",
+	"symbol": "NSMPO",
+	"securityName": "Nepal Share Markets Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.554Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936712"
+	},
+	"id": "246",
+	"symbol": "NSLMB",
+	"securityName": "Nepal Shree Lanka Merchant Banking & Finance Ltd",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.557Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936713"
+	},
+	"id": "158",
+	"symbol": "NTL",
+	"securityName": "Nepal Tading Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.559Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936714"
+	},
+	"id": "201",
+	"symbol": "NVG",
+	"securityName": "Nepal Vanaspati Ghee Udhyog Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.561Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936715"
+	},
+	"id": "159",
+	"symbol": "NWC",
+	"securityName": "Nepal Welfare Company Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.562Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936716"
+	},
+	"id": "396",
+	"symbol": "NLBBL",
+	"securityName": "Nerude Laghubita Bikas Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.564Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936717"
+	},
+	"id": "661",
+	"symbol": "NLBBLP",
+	"securityName": "Nerude Laghubita Bikas Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.568Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936718"
+	},
+	"id": "2743",
+	"symbol": "NGPL",
+	"securityName": "Ngadi Group Power Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.571Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936719"
+	},
+	"id": "309",
+	"symbol": "NICAP",
+	"securityName": "NIC Asia Bank Limted Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.574Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93671a"
+	},
+	"id": "139",
+	"symbol": "NICA",
+	"securityName": "NIC Asia Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.577Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93671b"
+	},
+	"id": "2825",
+	"symbol": "NICAD 85/86",
+	"securityName": "10% NIC Asia Debenture 2085/86",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.579Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93671c"
+	},
+	"id": "2779",
+	"symbol": "NICGF",
+	"securityName": "NIC Asia Growth Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.581Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93671d"
+	},
+	"id": "2868",
+	"symbol": "NICD83/84",
+	"securityName": "10.25% NIC Asia Debenture 2083/84",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.582Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93671e"
+	},
+	"id": "2869",
+	"symbol": "NICAD8283",
+	"securityName": "11% NIC Asia Debenture 082/83",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.584Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93671f"
+	},
+	"id": "2895",
+	"symbol": "NICAD8182",
+	"securityName": "9% NIC Asia Debenture 2081/82",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.586Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936720"
+	},
+	"id": "2863",
+	"symbol": "NICBF",
+	"securityName": "NIC Asia Balanced Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.591Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936721"
+	},
+	"id": "2887",
+	"symbol": "NICLBSL",
+	"securityName": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.595Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936722"
+	},
+	"id": "2888",
+	"symbol": "NICLBSLP",
+	"securityName": "NIC ASIA Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.602Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936723"
+	},
+	"id": "196",
+	"symbol": "NCM",
+	"securityName": "NIDC Capital Markets Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.604Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936724"
+	},
+	"id": "269",
+	"symbol": "NCMMF",
+	"securityName": "NCM Mutual Fund",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.612Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936725"
+	},
+	"id": "501",
+	"symbol": "NCMPO",
+	"securityName": "NIDC Capital Markets Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.616Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936726"
+	},
+	"id": "160",
+	"symbol": "NIDC",
+	"securityName": "NIDC Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.618Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936727"
+	},
+	"id": "658",
+	"symbol": "NIDCPO",
+	"securityName": "NIDC Development Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.621Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936728"
+	},
+	"id": "394",
+	"symbol": "NGBL",
+	"securityName": "Nilgiri Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.624Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936729"
+	},
+	"id": "163",
+	"symbol": "NUBL",
+	"securityName": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.637Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93672a"
+	},
+	"id": "672",
+	"symbol": "NUBLPO",
+	"securityName": "Nirdhan Utthan Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.639Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93672b"
+	},
+	"id": "684",
+	"symbol": "NLGPO",
+	"securityName": "NLG Insurance Company Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.640Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93672c"
+	},
+	"id": "559",
+	"symbol": "NLG",
+	"securityName": "NLG Insurance Company Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.642Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93672d"
+	},
+	"id": "704",
+	"symbol": "NMBMF",
+	"securityName": "NMB  Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.643Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93672e"
+	},
+	"id": "723",
+	"symbol": "NMBMFP",
+	"securityName": "NMB  Microfinance Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.645Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93672f"
+	},
+	"id": "629",
+	"symbol": "NMBSF1",
+	"securityName": "NMB Sulav Investment Fund-1",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.646Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936730"
+	},
+	"id": "2752",
+	"symbol": "NMBHF1",
+	"securityName": "NMB Hybrid Fund L-1",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.648Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936731"
+	},
+	"id": "2850",
+	"symbol": "NMBD2085",
+	"securityName": "10 % NMB DEBENTURE 2085",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.652Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936732"
+	},
+	"id": "238",
+	"symbol": "NMB",
+	"securityName": "NMB Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.654Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936733"
+	},
+	"id": "391",
+	"symbol": "NMBPO",
+	"securityName": "NMB Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.657Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936734"
+	},
+	"id": "2867",
+	"symbol": "NMB50",
+	"securityName": "NMB 50",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.661Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936735"
+	},
+	"id": "2898",
+	"symbol": "NRN",
+	"securityName": "NRN Infrastructure and Development Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.663Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936736"
+	},
+	"id": "2899",
+	"symbol": "NRNP",
+	"securityName": "NRN Infrastructure and Development Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.665Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936737"
+	},
+	"id": "398",
+	"symbol": "ODBL",
+	"securityName": "Om Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.667Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936738"
+	},
+	"id": "568",
+	"symbol": "ODBLPO",
+	"securityName": "Om Development Bank Ltd. Promoter",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.671Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936739"
+	},
+	"id": "475",
+	"symbol": "OFLPO",
+	"securityName": "Om Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.676Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93673a"
+	},
+	"id": "252",
+	"symbol": "OFL",
+	"securityName": "Om Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.679Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93673b"
+	},
+	"id": "149",
+	"symbol": "OHL",
+	"securityName": "Oriental Hotels Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.680Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93673c"
+	},
+	"id": "512",
+	"symbol": "PADBL",
+	"securityName": "Pacific Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.682Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93673d"
+	},
+	"id": "675",
+	"symbol": "PADBLP",
+	"securityName": "Pacific Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.684Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93673e"
+	},
+	"id": "2786",
+	"symbol": "PMHPL",
+	"securityName": "Panchakanya Mai Hydropower Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.686Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93673f"
+	},
+	"id": "2813",
+	"symbol": "PPCL",
+	"securityName": "Panchthar Power Compant Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.688Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936740"
+	},
+	"id": "165",
+	"symbol": "PDBL",
+	"securityName": "Paschimanchal Bikash Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.689Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936741"
+	},
+	"id": "234",
+	"symbol": "PFC",
+	"securityName": "Paschimanchal Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.693Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936742"
+	},
+	"id": "645",
+	"symbol": "PFCPO",
+	"securityName": "Paschimanchal Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.696Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936743"
+	},
+	"id": "266",
+	"symbol": "PFLBS",
+	"securityName": "Patan Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.698Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936744"
+	},
+	"id": "306",
+	"symbol": "PFLBSP",
+	"securityName": "Patan Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.700Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936745"
+	},
+	"id": "383",
+	"symbol": "PBSL",
+	"securityName": "Pathibhara Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.702Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936746"
+	},
+	"id": "206",
+	"symbol": "PFCL",
+	"securityName": "Peoples Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.705Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936747"
+	},
+	"id": "304",
+	"symbol": "PFCLPO",
+	"securityName": "Peoples Finance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.706Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936748"
+	},
+	"id": "236",
+	"symbol": "PFL",
+	"securityName": "Pokhara Finance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.708Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936749"
+	},
+	"id": "390",
+	"symbol": "PFLPO",
+	"securityName": "Pokhara Finance Company Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.709Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93674a"
+	},
+	"id": "255",
+	"symbol": "PRVU",
+	"securityName": "Prabhu  Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.713Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93674b"
+	},
+	"id": "287",
+	"symbol": "KISTPO",
+	"securityName": "KIST Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.716Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93674c"
+	},
+	"id": "488",
+	"symbol": "PRFLPO",
+	"securityName": "Prabhu Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.718Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93674d"
+	},
+	"id": "632",
+	"symbol": "PRVUPO",
+	"securityName": "Prabhu  Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.720Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93674e"
+	},
+	"id": "2875",
+	"symbol": "PBLD86",
+	"securityName": "10.25% Prabhu Bank  Debenture 2086",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.722Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93674f"
+	},
+	"id": "2904",
+	"symbol": "PBLD84",
+	"securityName": "10% Prabhu Bank Debenture 2084 ",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.724Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936750"
+	},
+	"id": "308",
+	"symbol": "PRBBL",
+	"securityName": "Prabhu Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.725Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936751"
+	},
+	"id": "184",
+	"symbol": "PRIN",
+	"securityName": "Prabhu Insurance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.727Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936752"
+	},
+	"id": "590",
+	"symbol": "PRINPO",
+	"securityName": "Prabhu Insurance Company Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.728Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936753"
+	},
+	"id": "2915",
+	"symbol": "PLI",
+	"securityName": "Prabhu Life Insurance Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.730Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936754"
+	},
+	"id": "2916",
+	"symbol": "PLIP",
+	"securityName": "Prabhu Life Insurance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.733Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936755"
+	},
+	"id": "247",
+	"symbol": "PFCLL",
+	"securityName": "Premier Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.735Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936756"
+	},
+	"id": "182",
+	"symbol": "PIC",
+	"securityName": "Premier Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.738Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936757"
+	},
+	"id": "713",
+	"symbol": "PICPO",
+	"securityName": "Premier Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.741Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936758"
+	},
+	"id": "357",
+	"symbol": "PCBL",
+	"securityName": "Prime Commercial Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.743Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936759"
+	},
+	"id": "544",
+	"symbol": "PCBLP",
+	"securityName": "Prime Commercial Bank Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.745Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93675a"
+	},
+	"id": "701",
+	"symbol": "PLICPO",
+	"securityName": "Prime Life Insurance Company Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.747Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93675b"
+	},
+	"id": "393",
+	"symbol": "PLIC",
+	"securityName": "Prime Life Insurance Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.749Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93675c"
+	},
+	"id": "446",
+	"symbol": "PRBL",
+	"securityName": "Professional Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.750Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93675d"
+	},
+	"id": "668",
+	"symbol": "PRDBLP",
+	"securityName": "Professional Diyalo Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.754Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93675e"
+	},
+	"id": "414",
+	"symbol": "PRDBL",
+	"securityName": "Professional Diyalo Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.763Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93675f"
+	},
+	"id": "338",
+	"symbol": "PROFL",
+	"securityName": "ProgressiveFinance Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.767Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936760"
+	},
+	"id": "354",
+	"symbol": "PROFLP",
+	"securityName": "Progressive Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.770Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936761"
+	},
+	"id": "260",
+	"symbol": "PFIL",
+	"securityName": "Prudential Finance Company Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.774Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936762"
+	},
+	"id": "604",
+	"symbol": "PFILPO",
+	"securityName": "Prudential Finance Co. Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.782Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936763"
+	},
+	"id": "648",
+	"symbol": "PICLPO",
+	"securityName": "Prudential Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.787Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936764"
+	},
+	"id": "189",
+	"symbol": "PICL",
+	"securityName": "Prudential Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.789Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936765"
+	},
+	"id": "367",
+	"symbol": "PDB",
+	"securityName": "Public Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.791Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936766"
+	},
+	"id": "714",
+	"symbol": "PURBLP",
+	"securityName": "Purnima Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.792Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936767"
+	},
+	"id": "451",
+	"symbol": "PURBL",
+	"securityName": "Purnima Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.794Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936768"
+	},
+	"id": "340",
+	"symbol": "PGBL",
+	"securityName": "Purwanchal Grameen Bikash Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.797Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936769"
+	},
+	"id": "2776",
+	"symbol": "RADHI",
+	"securityName": "Radhi Bidyut Company Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.801Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93676a"
+	},
+	"id": "203",
+	"symbol": "RJM",
+	"securityName": "Raghupati Jute Mills Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.804Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93676b"
+	},
+	"id": "2783",
+	"symbol": "RRHP",
+	"securityName": "Rairang Hydropower Development Company Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.810Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93676c"
+	},
+	"id": "679",
+	"symbol": "RBBBL",
+	"securityName": "Raptibheri Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.812Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93676d"
+	},
+	"id": "717",
+	"symbol": "RBBBLP",
+	"securityName": "Raptibheri Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.813Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93676e"
+	},
+	"id": "460",
+	"symbol": "RARA",
+	"securityName": "Rara Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.817Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93676f"
+	},
+	"id": "634",
+	"symbol": "RBCLPO",
+	"securityName": "Rastriya Beema Company Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.820Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936770"
+	},
+	"id": "177",
+	"symbol": "RBCL",
+	"securityName": "Rastriya Beema Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.824Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936771"
+	},
+	"id": "2841",
+	"symbol": "RHPL",
+	"securityName": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.826Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936772"
+	},
+	"id": "542",
+	"symbol": "REDBLP",
+	"securityName": "Reliable Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.827Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936773"
+	},
+	"id": "342",
+	"symbol": "REDBL",
+	"securityName": "Reliable Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.829Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936774"
+	},
+	"id": "587",
+	"symbol": "RLFL",
+	"securityName": "Reliance Finance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.831Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936775"
+	},
+	"id": "650",
+	"symbol": "RLFLPO",
+	"securityName": "Reliance Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.833Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936776"
+	},
+	"id": "2900",
+	"symbol": "RLI",
+	"securityName": "Reliance Life Insurance Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.834Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936777"
+	},
+	"id": "2901",
+	"symbol": "RLIP",
+	"securityName": "Reliance Life Insurance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.837Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936778"
+	},
+	"id": "384",
+	"symbol": "RBSL",
+	"securityName": "Resunga Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.840Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936779"
+	},
+	"id": "610",
+	"symbol": "RHPC",
+	"securityName": "Ridi Hydropower Development Company Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.843Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93677a"
+	},
+	"id": "514",
+	"symbol": "RDBL",
+	"securityName": "Rising Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.846Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93677b"
+	},
+	"id": "659",
+	"symbol": "RMDCPO",
+	"securityName": "Rural Microfinance Development Centre Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.848Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93677c"
+	},
+	"id": "575",
+	"symbol": "RMDC",
+	"securityName": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.850Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93677d"
+	},
+	"id": "2748",
+	"symbol": "RSDC",
+	"securityName": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.852Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93677e"
+	},
+	"id": "2749",
+	"symbol": "RSDCP",
+	"securityName": "RSDC Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.853Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93677f"
+	},
+	"id": "2935",
+	"symbol": "RURU",
+	"securityName": "Ru Ru Jalbidhyut Pariyojana Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.855Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936780"
+	},
+	"id": "2843",
+	"symbol": "SABSL",
+	"securityName": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.857Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936781"
+	},
+	"id": "2844",
+	"symbol": "SABSLP",
+	"securityName": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.860Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936782"
+	},
+	"id": "2896",
+	"symbol": "SDLBSL",
+	"securityName": "Sadhana Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.863Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936783"
+	},
+	"id": "2897",
+	"symbol": "SDLBSLP",
+	"securityName": "Sadhana Laghubitta Bittiya Sanstha Limited Promoter Shares",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.866Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936784"
+	},
+	"id": "321",
+	"symbol": "SAFL",
+	"securityName": "Sagarmatha  Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.868Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936785"
+	},
+	"id": "715",
+	"symbol": "SAFLPO",
+	"securityName": "Sagarmatha  Finance Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.870Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936786"
+	},
+	"id": "619",
+	"symbol": "SICPO",
+	"securityName": "Sagarmatha Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.871Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936787"
+	},
+	"id": "185",
+	"symbol": "SIC",
+	"securityName": "Sagarmatha Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.873Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936788"
+	},
+	"id": "625",
+	"symbol": "SHBL",
+	"securityName": "Sahara Bikas Bank Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.874Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936789"
+	},
+	"id": "732",
+	"symbol": "SHBLPO",
+	"securityName": "Sahara Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.876Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93678a"
+	},
+	"id": "479",
+	"symbol": "SBBLJP",
+	"securityName": "Sahayogi Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.879Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93678b"
+	},
+	"id": "174",
+	"symbol": "SBBLJ",
+	"securityName": "Sahayogi Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.883Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93678c"
+	},
+	"id": "1735",
+	"symbol": "SAJHA",
+	"securityName": "Sajha Bikas Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.892Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93678d"
+	},
+	"id": "1738",
+	"symbol": "SAJHAP",
+	"securityName": "Sajha Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.893Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93678e"
+	},
+	"id": "155",
+	"symbol": "STC",
+	"securityName": "Salt Trading Corporation",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.895Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93678f"
+	},
+	"id": "2761",
+	"symbol": "SMATA",
+	"securityName": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.896Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936790"
+	},
+	"id": "2762",
+	"symbol": "SMATAP",
+	"securityName": "Samata Gharelu Laghubitta Bittiya Sanstha Limited Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.898Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936791"
+	},
+	"id": "221",
+	"symbol": "SFC",
+	"securityName": "Samjhana Finance Co. Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.901Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936792"
+	},
+	"id": "299",
+	"symbol": "SFCPO",
+	"securityName": "Samjhana Finace Co. Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.906Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936793"
+	},
+	"id": "297",
+	"symbol": "000011",
+	"securityName": "World Merchant Banking & Finance Limited Promoter Share",
+	"activeStatus": "I",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.909Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936794"
+	},
+	"id": "298",
+	"symbol": "SFCLP",
+	"securityName": "Samriddhi Finance Company Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.912Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936795"
+	},
+	"id": "256",
+	"symbol": "SFCL",
+	"securityName": "Samriddhi Finance Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.914Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936796"
+	},
+	"id": "2804",
+	"symbol": "SLBSL",
+	"securityName": "Samudayik Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.915Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936797"
+	},
+	"id": "2805",
+	"symbol": "SLBSLPO",
+	"securityName": "Samudayik Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.918Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936798"
+	},
+	"id": "574",
+	"symbol": "SKBBL",
+	"securityName": "Sana Kisan Bikas Bank Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.920Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c936799"
+	},
+	"id": "671",
+	"symbol": "SKBBLP",
+	"securityName": "Sana Kisan Bikas Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.924Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93679a"
+	},
+	"id": "171",
+	"symbol": "SANIMA",
+	"securityName": "Sanima Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.926Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93679b"
+	},
+	"id": "362",
+	"symbol": "SBBLPO",
+	"securityName": "Sanima Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.927Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93679c"
+	},
+	"id": "2828",
+	"symbol": "SAND2085",
+	"securityName": "10% Sanima Bank Limited Debenture",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.929Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93679d"
+	},
+	"id": "2773",
+	"symbol": "SAEF",
+	"securityName": "Sanima Equity Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.930Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93679e"
+	},
+	"id": "2922",
+	"symbol": "SBD87",
+	"securityName": "8.5% Sanima Debenture 2087",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.932Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c93679f"
+	},
+	"id": "2923",
+	"symbol": "SLCF",
+	"securityName": "Sanima Large Cap Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.934Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a0"
+	},
+	"id": "2908",
+	"symbol": "SGI",
+	"securityName": "Sanima General Insurance Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.935Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a1"
+	},
+	"id": "2909",
+	"symbol": "SGIP",
+	"securityName": "Sanima General Insurance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.937Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a2"
+	},
+	"id": "591",
+	"symbol": "SHPC",
+	"securityName": "Sanima Mai Hydropower Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.938Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a3"
+	},
+	"id": "2842",
+	"symbol": "SJCL",
+	"securityName": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.940Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a4"
+	},
+	"id": "2860",
+	"symbol": "SAPDBL",
+	"securityName": "Saptakoshi Development Bank Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.943Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a5"
+	},
+	"id": "2861",
+	"symbol": "SAPDBLP",
+	"securityName": "Saptakoshi Development Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.951Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a6"
+	},
+	"id": "1733",
+	"symbol": "SKDBL",
+	"securityName": "Saptakoshi Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.955Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a7"
+	},
+	"id": "1734",
+	"symbol": "SKDBLP",
+	"securityName": "Saptakoshi Development Bank Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.958Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a8"
+	},
+	"id": "592",
+	"symbol": "SNLB",
+	"securityName": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.959Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367a9"
+	},
+	"id": "643",
+	"symbol": "SNLBP",
+	"securityName": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.963Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367aa"
+	},
+	"id": "416",
+	"symbol": "SETI",
+	"securityName": "Seti Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.971Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367ab"
+	},
+	"id": "560",
+	"symbol": "SETIPO",
+	"securityName": "Seti Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.976Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367ac"
+	},
+	"id": "389",
+	"symbol": "SEWA",
+	"securityName": "Sewa Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.978Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367ad"
+	},
+	"id": "597",
+	"symbol": "SEWAPO",
+	"securityName": "Sewa Bikas Bank Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.980Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367ae"
+	},
+	"id": "472",
+	"symbol": "SADBL",
+	"securityName": "Shangrila Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.982Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367af"
+	},
+	"id": "708",
+	"symbol": "SADBLP",
+	"securityName": "Shangrila Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.985Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b0"
+	},
+	"id": "345",
+	"symbol": "SBSL",
+	"securityName": "Shikhar Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.988Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b1"
+	},
+	"id": "606",
+	"symbol": "SICLPO",
+	"securityName": "Shikhar Insurance Co. Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.990Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b2"
+	},
+	"id": "192",
+	"symbol": "SICL",
+	"securityName": "Shikhar Insurance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.993Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b3"
+	},
+	"id": "669",
+	"symbol": "SHINEP",
+	"securityName": "Shine Resunga Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.994Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b4"
+	},
+	"id": "473",
+	"symbol": "SHINE",
+	"securityName": "Shine Resunga Development Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.995Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b5"
+	},
+	"id": "2907",
+	"symbol": "SSHL",
+	"securityName": "Shiva Shree Hydropower Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.997Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1369f50ec210c9367b6"
+	},
+	"id": "2809",
+	"symbol": "SHIVM",
+	"securityName": "SHIVAM CEMENTS LTD",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:14.998Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367b7"
+	},
+	"id": "226",
+	"symbol": "SBPP",
+	"securityName": "Shree Bhrikuti Pulp And Paper Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367b8"
+	},
+	"id": "244",
+	"symbol": "SIFC",
+	"securityName": "Shree Investment Finance Co. Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.001Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367b9"
+	},
+	"id": "456",
+	"symbol": "SIFCPO",
+	"securityName": "Shree Investment & Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.004Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ba"
+	},
+	"id": "230",
+	"symbol": "SRS",
+	"securityName": "Shree Ram Sugar Mills Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.007Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367bb"
+	},
+	"id": "261",
+	"symbol": "SFFIL",
+	"securityName": "Shrijana Finance  (Bittaya Sanstha)",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.009Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367bc"
+	},
+	"id": "352",
+	"symbol": "SFFILP",
+	"securityName": "Shrijana Finance Ltd. Promoter Share",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.012Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367bd"
+	},
+	"id": "239",
+	"symbol": "SFL",
+	"securityName": "Siddharth Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.014Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367be"
+	},
+	"id": "546",
+	"symbol": "SFLPO",
+	"securityName": "Siddhartha Finance Ltd. Promoter",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.016Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367bf"
+	},
+	"id": "2912",
+	"symbol": "SBLD84",
+	"securityName": "8.5% SBL Debenture 2084",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.017Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c0"
+	},
+	"id": "2872",
+	"symbol": "SBLD2082",
+	"securityName": "10.50% SBL Debenture 2082",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.019Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c1"
+	},
+	"id": "2864",
+	"symbol": "SBLD83",
+	"securityName": "10.25% SBL Debenture 2083",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.020Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c2"
+	},
+	"id": "449",
+	"symbol": "SBLPO",
+	"securityName": "Siddhartha Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.022Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c3"
+	},
+	"id": "145",
+	"symbol": "SBL",
+	"securityName": "Siddhartha Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.023Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c4"
+	},
+	"id": "616",
+	"symbol": "SEOS",
+	"securityName": "Siddhartha Equity Orineted Scheme",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.026Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c5"
+	},
+	"id": "526",
+	"symbol": "SIGS1",
+	"securityName": "Siddhartha Investment Growth Scheme-1",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.030Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c6"
+	},
+	"id": "2859",
+	"symbol": "SIGS2",
+	"securityName": "Siddhartha Investment Growth Scheme - 2",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.032Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c7"
+	},
+	"id": "2770",
+	"symbol": "SEF",
+	"securityName": "Siddhartha Equity Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.033Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c8"
+	},
+	"id": "692",
+	"symbol": "SBLD78",
+	"securityName": "7.5% sbl debenture",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.035Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367c9"
+	},
+	"id": "169",
+	"symbol": "SDBL",
+	"securityName": "Siddhartha Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.037Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ca"
+	},
+	"id": "300",
+	"symbol": "SDBLPO",
+	"securityName": "Siddhartha Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.038Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367cb"
+	},
+	"id": "280",
+	"symbol": "SIL",
+	"securityName": "Siddhartha Insurance Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.040Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367cc"
+	},
+	"id": "630",
+	"symbol": "SILPO",
+	"securityName": "Siddhartha Insurance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.041Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367cd"
+	},
+	"id": "561",
+	"symbol": "SINDU",
+	"securityName": "Sindhu Bikash Bank Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.043Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ce"
+	},
+	"id": "652",
+	"symbol": "SINDUP",
+	"securityName": "Sindhu Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.046Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367cf"
+	},
+	"id": "2934",
+	"symbol": "SHEL",
+	"securityName": "Singati Hydro Energy Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.048Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d0"
+	},
+	"id": "147",
+	"symbol": "SHL",
+	"securityName": "Soaltee Hotel Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.052Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d1"
+	},
+	"id": "271",
+	"symbol": "SODBL",
+	"securityName": "Society Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.054Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d2"
+	},
+	"id": "485",
+	"symbol": "SODBLP",
+	"securityName": "Society  Development Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.056Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d3"
+	},
+	"id": "2812",
+	"symbol": "SPARS",
+	"securityName": "Sparsha Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.058Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d4"
+	},
+	"id": "2814",
+	"symbol": "SPARSPO",
+	"securityName": "Sparsha Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.059Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d5"
+	},
+	"id": "133",
+	"symbol": "SCB",
+	"securityName": "Standard Chartered Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.061Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d6"
+	},
+	"id": "655",
+	"symbol": "SCBPO",
+	"securityName": "Standard Chartered Bank Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.062Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d7"
+	},
+	"id": "251",
+	"symbol": "STFL",
+	"securityName": "Standard Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.064Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d8"
+	},
+	"id": "404",
+	"symbol": "STFLPO",
+	"securityName": "Standard Finance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.072Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367d9"
+	},
+	"id": "411",
+	"symbol": "SLFL",
+	"securityName": "Subha Laxmi Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.075Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367da"
+	},
+	"id": "556",
+	"symbol": "SUBBLP",
+	"securityName": "Subbecha Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.076Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367db"
+	},
+	"id": "331",
+	"symbol": "SUBBL",
+	"securityName": "Subhechha Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.078Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367dc"
+	},
+	"id": "663",
+	"symbol": "SMFDBP",
+	"securityName": "Summit Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.079Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367dd"
+	},
+	"id": "502",
+	"symbol": "SMFDB",
+	"securityName": "Summit Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.081Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367de"
+	},
+	"id": "359",
+	"symbol": "SRBL",
+	"securityName": "Sunrise Bank Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.083Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367df"
+	},
+	"id": "522",
+	"symbol": "SRBLPO",
+	"securityName": "Sunrise Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.085Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e0"
+	},
+	"id": "2834",
+	"symbol": "SRD80",
+	"securityName": "10% Sunrise Debenture 2080",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.088Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e1"
+	},
+	"id": "2877",
+	"symbol": "SFMF",
+	"securityName": "Sunrise First Mutual Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.091Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e2"
+	},
+	"id": "2878",
+	"symbol": "SRBLD83",
+	"securityName": "10.25% Sunrise Bank Debenture 2083",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.093Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e3"
+	},
+	"id": "2937",
+	"symbol": "SBCF",
+	"securityName": "Sunrise Bluechip Fund",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.095Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e4"
+	},
+	"id": "2771",
+	"symbol": "SMB",
+	"securityName": "Support Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.099Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e5"
+	},
+	"id": "2772",
+	"symbol": "SMBPO",
+	"securityName": "Support Microfinance Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.101Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e6"
+	},
+	"id": "463",
+	"symbol": "SUPRMP",
+	"securityName": "Supreme Development Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.102Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e7"
+	},
+	"id": "267",
+	"symbol": "SUPRME",
+	"securityName": "Supreme Development Bank Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.104Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e8"
+	},
+	"id": "403",
+	"symbol": "SLICL",
+	"securityName": "Surya Life Insurance Company Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.105Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367e9"
+	},
+	"id": "581",
+	"symbol": "SLICLP",
+	"securityName": "Surya Life Insurance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.109Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ea"
+	},
+	"id": "407",
+	"symbol": "SDFL",
+	"securityName": "Suryadarshan Finance Company Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.112Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367eb"
+	},
+	"id": "2750",
+	"symbol": "SLBS",
+	"securityName": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.114Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ec"
+	},
+	"id": "2911",
+	"symbol": "SLBSP",
+	"securityName": "SURYODAYA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.117Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ed"
+	},
+	"id": "268",
+	"symbol": "SWBBL",
+	"securityName": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.118Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ee"
+	},
+	"id": "314",
+	"symbol": "SWBBLP",
+	"securityName": "Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.120Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ef"
+	},
+	"id": "2829",
+	"symbol": "SMFBS",
+	"securityName": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.121Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f0"
+	},
+	"id": "2830",
+	"symbol": "SMFBSP",
+	"securityName": "Swabhimaan Laghubitta Bittiya Sanstha LTD Promoter share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.123Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f1"
+	},
+	"id": "2764",
+	"symbol": "SDESI",
+	"securityName": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.124Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f2"
+	},
+	"id": "2891",
+	"symbol": "SDESIP",
+	"securityName": "SWADESHI LAGHUBITTA BITTIYA SANSTHA LIMITED - PROMOTER SHARE",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.126Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f3"
+	},
+	"id": "545",
+	"symbol": "SLBBL",
+	"securityName": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.129Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f4"
+	},
+	"id": "721",
+	"symbol": "SLBBLP",
+	"securityName": "Swarojgar Laghu Bitta Bikas Bank Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.132Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f5"
+	},
+	"id": "409",
+	"symbol": "SMF",
+	"securityName": "Swastik Merchant Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.135Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f6"
+	},
+	"id": "249",
+	"symbol": "SYFL",
+	"securityName": "Synergy Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.137Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f7"
+	},
+	"id": "440",
+	"symbol": "BFLPO",
+	"securityName": "Butwal Finance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.140Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f8"
+	},
+	"id": "624",
+	"symbol": "SYFLPO",
+	"securityName": "Synergy Finance Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.141Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367f9"
+	},
+	"id": "2759",
+	"symbol": "SPDL",
+	"securityName": "Synergy Power Development Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.143Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367fa"
+	},
+	"id": "148",
+	"symbol": "TRH",
+	"securityName": "Taragaon Regency Hotel Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.145Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367fb"
+	},
+	"id": "608",
+	"symbol": "TRHPR",
+	"securityName": "Taragaon Regency Hotels Ltd. Preference Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.147Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367fc"
+	},
+	"id": "442",
+	"symbol": "TNBL",
+	"securityName": "Tinau Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.150Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367fd"
+	},
+	"id": "580",
+	"symbol": "TNBLPO",
+	"securityName": "Tinau Development Bank Ltd. Promoter",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.153Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367fe"
+	},
+	"id": "2855",
+	"symbol": "TMDBL",
+	"securityName": "Tinau Mission Development Bank Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.162Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c9367ff"
+	},
+	"id": "2856",
+	"symbol": "TMDBLP",
+	"securityName": "Tinau Mission Development Bank Limited Promoter Share",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.164Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936800"
+	},
+	"id": "503",
+	"symbol": "TDBL",
+	"securityName": "Tourism Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.166Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936801"
+	},
+	"id": "688",
+	"symbol": "TDBLPO",
+	"securityName": "Tourism Development Bank Ltd. Prmoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.168Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936802"
+	},
+	"id": "465",
+	"symbol": "TBBLP",
+	"securityName": "Triveni Bikas Bank Ltd Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.177Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936803"
+	},
+	"id": "337",
+	"symbol": "TBBL",
+	"securityName": "Triveni Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.179Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936804"
+	},
+	"id": "405",
+	"symbol": "UBBL",
+	"securityName": "Udhyam Bikas Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.182Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936805"
+	},
+	"id": "219",
+	"symbol": "UNL",
+	"securityName": "Unilever Nepal Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.183Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936806"
+	},
+	"id": "208",
+	"symbol": "UFCL",
+	"securityName": "Union Finance Co. Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.186Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936807"
+	},
+	"id": "476",
+	"symbol": "UFCLPO",
+	"securityName": "Union Finance Co. Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.187Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936808"
+	},
+	"id": "2831",
+	"symbol": "UNHPL",
+	"securityName": "Union Hydropower Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.189Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936809"
+	},
+	"id": "413",
+	"symbol": "UFIL",
+	"securityName": "Unique Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.193Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93680a"
+	},
+	"id": "603",
+	"symbol": "UFILPO",
+	"securityName": "Unique Finance Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.196Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93680b"
+	},
+	"id": "242",
+	"symbol": "UFL",
+	"securityName": "United Finance Ltd.",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.198Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93680c"
+	},
+	"id": "350",
+	"symbol": "UFLPO",
+	"securityName": "United Finance Company Limited Promoter Share",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.200Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93680d"
+	},
+	"id": "2914",
+	"symbol": "UMRH",
+	"securityName": "United IDI Mardi RB Hydropower Limited.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.202Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93680e"
+	},
+	"id": "180",
+	"symbol": "UIC",
+	"securityName": "United Insurance Co. (Nepal) Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.203Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93680f"
+	},
+	"id": "726",
+	"symbol": "UICPO",
+	"securityName": "United Insurance Co. (Nepal) Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.205Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936810"
+	},
+	"id": "2760",
+	"symbol": "UMHL",
+	"securityName": "United Modi Hydropower Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.207Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936811"
+	},
+	"id": "381",
+	"symbol": "UFLKPO",
+	"securityName": "Universal Finance Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.209Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936812"
+	},
+	"id": "223",
+	"symbol": "UFLK",
+	"securityName": "Universal Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.214Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936813"
+	},
+	"id": "2810",
+	"symbol": "UPCL",
+	"securityName": "UNIVERSAL POWER COMPANY LTD",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.220Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936814"
+	},
+	"id": "2774",
+	"symbol": "USLB",
+	"securityName": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.222Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936815"
+	},
+	"id": "2775",
+	"symbol": "USLBP",
+	"securityName": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.224Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936816"
+	},
+	"id": "2792",
+	"symbol": "UPPER",
+	"securityName": "Upper Tamakoshi Hydropower Ltd",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.225Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936817"
+	},
+	"id": "444",
+	"symbol": "VFL",
+	"securityName": "Valley Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.227Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936818"
+	},
+	"id": "687",
+	"symbol": "VLBS",
+	"securityName": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.228Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936819"
+	},
+	"id": "716",
+	"symbol": "VLBSPO",
+	"securityName": "Vijaya laghubitta Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.230Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93681a"
+	},
+	"id": "445",
+	"symbol": "WDBL",
+	"securityName": "Western Development Bank Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.231Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93681b"
+	},
+	"id": "633",
+	"symbol": "WDBLPO",
+	"securityName": "Western Development Bank Limited Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.237Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93681c"
+	},
+	"id": "706",
+	"symbol": "WOMI",
+	"securityName": "Womi Microfinance Bittiya Sanstha Ltd.",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.240Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93681d"
+	},
+	"id": "720",
+	"symbol": "WOMIPO",
+	"securityName": "Womi Microfinance Bittiya Sanstha Ltd. Promoter Share",
+	"activeStatus": "A",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.242Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93681e"
+	},
+	"id": "146",
+	"symbol": "YHL",
+	"securityName": "Yak And Yeti Hotel Limited",
+	"activeStatus": "S",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.246Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c93681f"
+	},
+	"id": "218",
+	"symbol": "YFL",
+	"securityName": "Yeti Finance Ltd.",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.248Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936820"
+	},
+	"id": "302",
+	"symbol": "YFLPO",
+	"securityName": "Yeti Finance Ltd. Promoter Share",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.249Z"
+	}
+  },{
+	"_id": {
+	  "$oid": "60b7a1379f50ec210c936821"
+	},
+	"id": "408",
+	"symbol": "ZFL",
+	"securityName": "Zenith Finance Limited",
+	"activeStatus": "D",
+	"created": {
+	  "$date": "2021-06-02T15:18:15.251Z"
+	}
+  }]

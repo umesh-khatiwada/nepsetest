@@ -1,0 +1,43 @@
+<%- include('../views/partials/header.ejs'); %>
+<%- include('../views/partials/navbar.ejs'); %>
+    <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">securityId</th>
+            <th scope="col">securityName</th>
+            <th scope="col">symbol</th>
+            <th scope="col">ltp</th>
+            <th scope="col">pointChange</th>
+            <th scope="col">percentageChange</th>
+
+          </tr>
+        </thead>
+        <tbody>
+
+
+            <%-mylength=request.length%>
+
+
+
+            <%for(var i=0;i<mylength;i++){ %>
+
+          <tr>
+            <th scope="row"><%=i%></th>
+            <td><%=request[i].securityId %></td>
+            <td><%=request[i].securityName %></td>
+            <td><%=request[i].symbol %></td>
+            <td><%=request[i].ltp %></td>
+            <td><%=request[i].pointChange %></td>
+            <td><%=request[i].percentageChange %></td>
+          </tr>
+
+        <%} %>
+
+          
+        </tbody>
+      </table>
+
+
+
+    <%- include('../views/partials/footer.ejs'); %>

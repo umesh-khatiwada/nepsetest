@@ -1,0 +1,48 @@
+<%- include('../views/partials/header.ejs'); %>
+<%- include('../views/partials/navbar.ejs'); %>
+
+
+
+
+
+    <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">securityId</th>
+            <th scope="col">securityName</th>
+            <th scope="col">symbol</th>
+            <th scope="col">closingPrice</th>
+            <th scope="col">turnover</th>
+
+
+          </tr>
+        </thead>
+        <tbody>
+
+
+            <%mylength=request.length%>
+
+
+
+            <%for(let i=0;i<mylength;i++){ %>
+
+          <tr>
+            <th scope="row"><%=i%></th>
+            <td><%=request[i].securityId %></td>
+            <td><%=request[i].securityName %></td>
+            <td><%=request[i].symbol %></td>
+            <td><%=request[i].closingPrice %></td>
+            <td><%=request[i].turnover %></td>
+
+          </tr>
+
+        <%} %>
+
+          
+        </tbody>
+      </table>
+
+
+
+    <%- include('../views/partials/footer.ejs'); %>

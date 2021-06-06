@@ -1,0 +1,219 @@
+
+
+<%- include('../views/partials/header.ejs'); %>
+<%- include('../views/partials/navbar.ejs'); %>
+
+<% var date ;%>
+
+<%  var securityID ;%>
+<%  var page ;%>
+<%  var size ;%>
+
+<form class="form-inline" method="POST" action="/submit">
+
+  <label> Date  EXAMPLE  (2021-05-31)</label>
+
+  <%if (date !=null ){ %>
+
+ <input name="date"  type="text" class="form-control mr-sm-2"  value="<%=date%>">
+    
+  <% } else {%>
+    <input name="date"  type="text" class="form-control mr-sm-2" >
+
+    <% }%>
+
+
+
+
+  <br>
+
+    <label>company  ID</label>
+
+
+
+    <%if (securityID !=null ){ %>
+
+      <input name="securityID"  type="text" class="form-control mr-sm-2"  value="<%=securityID%>">
+         
+       <% } else {%>
+         <input name="securityID"  type="text" class="form-control mr-sm-2" >
+     
+         <% }%>
+
+
+
+
+
+
+    
+
+    <!-- <label for="exampleFormControlSelect1">Example select</label>
+
+    <input  type="text" class="form-control mr-sm-2"  value="358"> -->
+
+    
+    <!-- <select name="securityID"  selected="selected" class="form-control" id="exampleFormControlSelect2">
+      <option value="358" >358</option>
+      <option value="418" selected="selected">418</option>
+      <option value="2742" >2742</option>
+      <option value="152">152</option>
+      <option value="2760">2760</option>
+    </select> -->
+
+    <label>page <%=page%></label>
+
+    <br>
+
+
+
+
+
+    <%if (page !=null ){ %>
+
+      <input type="number" name="page" value="<%=page%>">
+         
+       <% } else {%>
+        <input type="number" name="page" value="1">
+     
+         <% }%>
+
+
+
+
+    <br>
+
+
+
+
+
+    <label>size <%=size%> </label>
+
+
+<br>
+
+
+    <%if (size !=null ){ %>
+
+      <input type="number" name="size" value="<%=size%>">
+         
+       <% } else {%>
+        <input type="number" name="size" value="10">
+     
+         <% }%>
+
+
+
+
+
+
+
+
+
+
+
+
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+
+
+  </form>
+
+
+  <%var floor;%>
+  
+
+<%if (floor !=null ){ %>
+
+  <table class="table">
+    <thead class="thead-dark">
+      <tr>
+            <th scope="col">#</th>
+            <th scope="col">stockId</th>
+            <th scope="col">securityName</th>
+            <th scope="col">stockSymbol</th>
+            <th scope="col">contractId</th>
+            <th scope="col">buyerMemberId</th>
+            <th scope="col">sellerMemberId</th>
+            <th scope="col">contractQuantity</th>
+            <th scope="col">contractRate</th>
+            <th scope="col">contractAmount</th>
+            <th scope="col">businessDate</th>
+            <th scope="col">tradeBookId</th>
+            <th scope="col">tradeTime</th>
+      </tr>
+    </thead>
+  
+
+    <tbody>
+
+
+
+
+
+        <%mylength=floor.floorsheets.content.length%>
+
+
+
+
+
+        <%for(let i=0;i<mylength;i++){ %>
+
+      <tr>
+        <th scope="row"><%=i%></th>
+        <td><%=floor.floorsheets.content[i].stockId%></td>
+        <td><%=floor.floorsheets.content[i].securityName%></td>
+        <td><%=floor.floorsheets.content[i].stockSymbol%></td>
+        <td><%=floor.floorsheets.content[i].contractId%></td>
+        <td><%=floor.floorsheets.content[i].buyerMemberId%></td>
+        <td><%=floor.floorsheets.content[i].sellerMemberId%></td>
+        <td><%=floor.floorsheets.content[i].contractQuantity%></td>
+        <td><%=floor.floorsheets.content[i].contractRate%></td>
+        <td><%=floor.floorsheets.content[i].contractAmount%></td>
+        <td><%=floor.floorsheets.content[i].businessDate%></td>
+        <td><%=floor.floorsheets.content[i].tradeBookId%></td>
+        <td><%=floor.floorsheets.content[i].tradeTime%></td>
+
+
+
+      </tr>
+
+
+      <%} %>
+      
+    </tbody>
+  </table>
+
+
+
+
+
+  <%} %>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- <form method="post" action="/submit">
+    <input type="text" name="data">
+    <input type="text" name="email">
+    <input type="password" name="password">
+    <input type="submit" value="Send Data">
+</form> -->
+
+
+
+
+
+<%- include('../views/partials/footer.ejs'); %>

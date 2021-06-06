@@ -1,0 +1,44 @@
+<%- include('../partials/header'); %>
+<%- include('../partials/navbar'); %>
+
+
+
+<h1> add</h1>
+
+<form method="POST" action="/update/submit">
+    <div class="form-group">
+      <label>id</label>
+      <input type="number" class="form-control" placeholder="id" name="id">
+
+    </div>
+
+
+
+    <div class="form-group">
+      <label for="exampleInputPassword1">symbol</label>
+      <input type="text" class="form-control" id="exampleInputPassword1"  placeholder="symbol" name="symbol">
+    </div>
+
+
+
+
+    <div class="form-group">
+        <label for="exampleInputPassword1">securityName</label>
+        <input type="text" class="form-control" id="exampleInputPassword1"  placeholder="securityName" name="securityName">
+      </div>
+  
+
+      <div class="form-group">
+        <label for="exampleInputPassword1">activeStatus (A ,B ,C ,D ,E)</label>
+        <input type="text" class="form-control" id="exampleInputPassword1"  placeholder="activeStatus" name="activeStatus">
+      </div>
+  
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+<% var  result; %>
+    <span><%=result%> </span>
+
+  </form>
+
+
+  <%- include('../partials/footer'); %>

@@ -1,0 +1,30 @@
+<%- include('../partials/header'); %>
+<%- include('../partials/navbar'); %>
+
+<h1> addupdate section </h1>
+
+
+<form method="POST" action="/update/addupdates">
+    <div class="form-group">
+      <label>id</label>
+      <input value="<%=edit.id%>" type="number" class="form-control" placeholder="id" name="id">
+
+    </div>
+
+
+    <div class="form-group">
+        <label for="exampleInputPassword1">securityName</label>
+        <input value="<%=edit.securityName%>" type="text" class="form-control" id="exampleInputPassword1"  placeholder="securityName" name="securityName">
+      </div>
+  
+
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+
+
+  </form>
+
+
+  <%- include('../partials/footer'); %>
